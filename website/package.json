@@ -1,7 +1,6 @@
 {
-  "name": "website",
-  "version": "0.1.0",
-  "private": true,
+  "name": "Wakatime Android Website",
+  "version": "0.1.1",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"
